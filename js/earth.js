@@ -26,7 +26,8 @@
 	scene.add(new THREE.AmbientLight(0x333333));
 
 	var light = new THREE.DirectionalLight(0xffffff, 1);
-	light.position.set(0,0,0);
+	light.position.set(5,3,5);
+	light.target = sphere
 
     var sphere = createSphere(radius, segments);
 	sphere.rotation.y = rotation; 
