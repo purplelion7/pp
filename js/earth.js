@@ -25,11 +25,8 @@
 
 	scene.add(new THREE.AmbientLight(0x333333));
 
-	const pointLight = new THREE.PointLight(0xFFFFFF);
-			pointLight.position.x = 10;
-			pointLight.position.y = 50;
-			pointLight.position.z = 400;
-			scene.add(pointLight);
+	var light = new THREE.DirectionalLight(0xffffff, 1);
+	light.position.set(0,0,0);
 
     var sphere = createSphere(radius, segments);
 	sphere.rotation.y = rotation; 
