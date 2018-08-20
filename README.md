@@ -1,6 +1,7 @@
 # pp
 ### About my project
 Project Title: Shortening Physical Distance Through Photography
+
 Creator: Izumi Ando
 
 The main objective of Shortening Physical Distance Through Photography (SPDTP) is to create an art piece to make geographical distance less of a barrier between people all over the world. I believe that overcoming this geographical and mental barrier by recognizing that we all share one Earth is the first step in achieving any kind of change on a global level.
